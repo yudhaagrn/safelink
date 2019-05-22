@@ -123,11 +123,11 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
+      "https://holasafelink.blogspot.com/2019/05/advertising-on-television.html",
+      "https://holasafelink.blogspot.com/2019/05/billboard-advertising.html",
+      "https://holasafelink.blogspot.com/2019/05/how-to-create-successful-advertising.html",
+      "https://holasafelink.blogspot.com/2019/05/the-importance-of-good-records.html",
+      "https://holasafelink.blogspot.com/2019/05/advantages-to-indemnity-health.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
